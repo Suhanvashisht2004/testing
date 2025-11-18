@@ -1,1 +1,2 @@
 This is for understanding the git
+This is the 2nd line
